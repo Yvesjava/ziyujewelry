@@ -1,0 +1,158 @@
+
+
+
+
+
+.container h1{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	user-select:none;
+}
+
+
+#form-content{
+	padding-top: 15px;
+}
+
+#form_product{
+	padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+*{
+	margin: 0;
+	padding: 0;
+}
+li{
+	text-decoration: none;
+	list-style: none;
+}
+
+
+
+
+#headNav-con{
+	margin: 3% auto 0px;
+	width: 1200px;
+	height: 100px;
+	background-color: #267F0080;
+}
+
+.Nav-but{
+	width: 600px;
+	height: 100px;
+	background-color: #5B7F0080;
+	float: left;
+	font-size: 45px;
+	line-height: 100px;
+	text-align: center;
+	user-select:none;
+}
+
+.Nav-but:hover{
+	background-color: #7F330080;
+}
+
+
+#insert-menu{
+	display: none;
+	font-size: 25px;
+	line-height: 40px;
+	text-align: center;
+	user-select:none;
+}
+
+#insert-menu li:hover{
+	background-color: #FFFFFF80;
+	font-size: 25px;
+	color: #B200FFFF;
+	font-weight: bold;
+}
+
+
+#content-con{
+	margin: 1% auto;
+	width: 1200px;
+	height: 800px;
+	background-color: #00137F80;
+}*/
+
+
+
+
+
+
+/*<div class="container">
+		<div id="headNav-con">
+			<div class="Nav-but">查删改</div>
+			<div class="Nav-but">
+				<span>录入</span>
+				<div id="insert-menu">
+					<ul>
+						<li>商品表</li>
+						<li>材质表</li>
+						<li>饰品类型表</li>
+						<li>镶嵌表</li>
+					</ul>
+			</div>
+			</div>
+			
+		</div>
+
+
+		<div id="content-con">
+			<!-- 录入板块 -->
+			<!-- 录入信息，总四张表，第一张product，第二张Jtype，第三张，mater，第四张mosaic -->
+			<!-- product -->
+			<div id="insert">
+				<form action="">
+					商品名称：<input type="text" name="pname">
+
+				</form>
+			</div>
+
+
+
+
+		</div>
+
+
+	</div>*/
+
+
+
